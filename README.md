@@ -1,4 +1,4 @@
-# Vision-Language App
+# Vision Language Modelling
 
 This project is a multi-modal AI application that uses **BLIP, CLIP, and GPT-2** to process images and generate meaningful outputs.  
 It allows users to:  
