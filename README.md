@@ -1,6 +1,6 @@
 # Vision Language Modelling
 
-This project is a multi-modal AI application that uses **BLIP, CLIP, and GPT-2** to process images and generate meaningful outputs.  
+This project uses **BLIP, CLIP, and GPT-2** to process images and generate meaningful outputs.  
 It allows users to:  
 1. Generate **captions** for images  
 2. Ask **questions about images** (Visual Question Answering, VQA)  
@@ -22,7 +22,7 @@ It allows users to:
 ## Project Structure
 
 ```bash
-vision_language_app/
+vision_language_modelling/
 │── main.py                 # Main program to run tasks
 │── models/                 # Modules for image captioning, VQA, storytelling and evaluation
 │ ├── captioning.py
